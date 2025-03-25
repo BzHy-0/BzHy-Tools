@@ -153,7 +153,7 @@
 
 <h1 align="center">Installation</h1>
 
-<a href="https://github.com/loxy0dev/BzHy-Tools/archive/refs/tags/v6.3.zip">Dowloads "BzHy-Tools.zip" Here</a>
+<a href="https://github.com/BzHy-0/BzHy-Tools/archive/refs/heads/main.zip">Dowloads "BzHy-Tools.zip" Here</a>
 
 <p>
   
