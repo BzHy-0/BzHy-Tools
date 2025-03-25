@@ -66,7 +66,7 @@
 │   ├── Dark Web Links
 │   └── Ip Generator
 │
-├── ☠️ - Virus Builder <strong>(does not work at the moment)<strong>
+├── ☠️ - Virus Builder (DOES NOT WORK AT THE MOMENT)
 │   ├── Stealer
 │   │   ├── System Info: User, System, Ip, Disk, Screen, Location, etc.
 │   │   ├── Discord Token: Token, Email, Phone, Id, Username, etc.
